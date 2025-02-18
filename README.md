@@ -13,15 +13,15 @@ Passionnée par l'informatique et la science des données, je travaille actuelle
 - **Data Science & IA** : Réseaux de neurones (Python), Modélisation prédictive (Spark-ML, Python)  
 
 ## 🌟 Projets phares  
-### 🔹 [Marvel-App](https://github.com/ton-repo-marvel-app)  
+### 🔹 [Marvel-App](https://github.com/dodoBrb/marvel-app)  
 Application web interactive sur les personnages Marvel développée en **React** avec :  
 ✅ Liste des personnages avec détails (nom, photo, description)  
-✅ Visualisation des capacités avec **D3.js** (graphique radar, toile d'araignée)  
+✅ Visualisation des capacités avec **D3.js** (graphique radar et circulaire)  
 ✅ Tests unitaires et end-to-end  
 ✅ Données récupérées via une API  
 
 ## 📊 Statistiques GitHub  
-![Dorine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-github-username&show_icons=true&theme=radical)  
+![Dorine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
 
 ## 📫 Où me trouver ?  
 🔗 [LinkedIn](https://www.linkedin.com/in/ton-lien/)  
