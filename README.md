@@ -20,6 +20,13 @@ Application web interactive sur les personnages Marvel développée en **React**
 ✅ Tests unitaires et end-to-end  
 ✅ Données récupérées via une API  
 
+### 🔹 [Chatbot Assurance](https://github.com/julietterssgnl/RAG-IUT)  
+Création d'un **chatbot IA** appliqué aux assurances en exploitant des contrats au format **HTML** :  
+✅ Extraction et découpage des documents avec **BeautifulSoup**  
+✅ Embedding des données avec **Hugging Face**  
+✅ Stockage des embeddings dans **ChromaDB**  
+✅ Génération de réponses avec **Streamlit & Google AI Studio** 
+
 ## 📊 Statistiques GitHub  
 ![Dorine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
 
