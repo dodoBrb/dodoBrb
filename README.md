@@ -24,7 +24,7 @@ Application web interactive sur les personnages Marvel développée en **React**
 ![Dorine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
 
 ## 📫 Où me trouver ?  
-🔗 [LinkedIn](https://www.linkedin.com/in/ton-lien/)  
+🔗 [LinkedIn](https://fr.linkedin.com/in/dorine-barbey-7a080b2a0)  
 📧 dorine.barbey@example.com  
 
 ---
