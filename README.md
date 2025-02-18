@@ -5,7 +5,7 @@
 🎯 Objectif : **Master Informatique - Parcours Architecte des Données**  
 
 ## 🚀 À propos de moi  
-Passionnée par l'informatique et la science des données, je travaille actuellement sur la création d'un **nouvel entrepôt de données** avec **Talend**. Mon parcours m'a permis d'explorer différents domaines, du développement web à l'intelligence artificielle.
+Passionnée par l'informatique et la science des données, je travaille actuellement sur la création d'un **nouvel entrepôt de données** avec **Talend**. Mon parcours m'a permis d'explorer différents domaines, du développement web à l'intelligence artificielle en passant par la modélisation statistique.
 
 ## 🛠️ Compétences  
 - **Langages** : Python, VBA, JavaScript (Express, React), HTML, CSS, PHP, Scala  
