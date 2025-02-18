@@ -42,8 +42,4 @@ Analyse et amélioration de l'application **BI "MYDental"** permettant de suivre
 
 ## 📫 Où me trouver ?  
 🔗 [LinkedIn](https://fr.linkedin.com/in/dorine-barbey-7a080b2a0)  
-📧 dorine.barbey@example.com  
-
----
-
-✨ **Curieuse et toujours en quête de nouveaux défis, n'hésite pas à me contacter !**  
+📧 dorine.barbey@etu.univ-poitiers.fr 
