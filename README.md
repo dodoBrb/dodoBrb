@@ -28,7 +28,7 @@ Création d'un **chatbot IA** appliqué aux assurances en exploitant des contrat
 ✅ Génération de réponses avec **Streamlit & Google AI Studio** 
 
 ## 📊 Statistiques GitHub  
-![Dorine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
+!(https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
 
 ## 📫 Où me trouver ?  
 🔗 [LinkedIn](https://fr.linkedin.com/in/dorine-barbey-7a080b2a0)  
