@@ -28,14 +28,14 @@ Création d'un **chatbot IA** appliqué aux assurances en exploitant des contrat
 ✅ Extraction et découpage des documents avec **BeautifulSoup**  
 ✅ Embedding des données avec **Hugging Face**  
 ✅ Stockage des embeddings dans **ChromaDB**  
-✅ Génération de réponses avec **Streamlit & Google AI Studio** 
+✅ Génération de réponses avec **Streamlit & Google AI Studio**  
 
 ### 🔹 [MYDental - BI & Data Visualization](https://github.com/julietterssgnl/mydental-bi)  
-Analyse et amélioration de l'application **BI "MYDental"** permettant de suivre les performances des médecins et les visites des patients grâce à des **tableaux de bord interactifs** :
+Analyse et amélioration de l'application **BI "MYDental"** permettant de suivre les performances des médecins et les visites des patients grâce à des **tableaux de bord interactifs** :  
 ✅ Développement backend avec **Node.js** et **Express.js**  
 ✅ Gestion des données avec **MariaDB**  
 ✅ Interface utilisateur en **HTML, CSS, JavaScript** avec des visualisations via **D3.js**  
-✅ Conteneurisation et orchestration avec **Docker & Docker Compose**   
+✅ Conteneurisation et orchestration avec **Docker & Docker Compose** 
 
 ## 📊 Statistiques GitHub  
 ![Statistiques de mon Github](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
