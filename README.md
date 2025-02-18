@@ -9,8 +9,11 @@ Passionnée par l'informatique et la science des données, je travaille actuelle
 
 ## 🛠️ Compétences  
 - **Langages** : Python, VBA, JavaScript (Express, React), HTML, CSS, PHP, Scala  
-- **Outils & Frameworks** : Spark-ML, Talend, D3.js  
-- **Data Science & IA** : Réseaux de neurones (Python), Modélisation prédictive (Spark-ML, Python)  
+- **Outils & Frameworks** : Spark-ML, Talend, D3.js, BeautifulSoup, Hugging Face, ChromaDB, Streamlit, Node.js, Express.js  
+- **Bases de données** : MariaDB, ChromaDB  
+- **DevOps & Conteneurisation** : Docker, Docker Compose  
+- **Data Science & IA** : Réseaux de neurones (Python), Modélisation prédictive (Spark-ML, Python), NLP & Embeddings  
+
 
 ## 🌟 Projets phares  
 ### 🔹 [Marvel-App](https://github.com/dodoBrb/marvel-app)  
@@ -26,6 +29,12 @@ Création d'un **chatbot IA** appliqué aux assurances en exploitant des contrat
 ✅ Embedding des données avec **Hugging Face**  
 ✅ Stockage des embeddings dans **ChromaDB**  
 ✅ Génération de réponses avec **Streamlit & Google AI Studio** 
+
+### 🔹 [MYDental - BI & Data Visualization](https://github.com/julietterssgnl/mydental-bi)  
+Analyse et amélioration de l'application **BI "MYDental"** permettant de suivre les performances des médecins et les visites des patients grâce à des **tableaux de bord interactifs** : ✅ Développement backend avec **Node.js** et **Express.js**  
+✅ Gestion des données avec **MariaDB**  
+✅ Interface utilisateur en **HTML, CSS, JavaScript** avec des visualisations via **D3.js**  
+✅ Conteneurisation et orchestration avec **Docker & Docker Compose**   
 
 ## 📊 Statistiques GitHub  
 ![Statistiques de mon Github](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
