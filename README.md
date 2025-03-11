@@ -8,8 +8,8 @@
 Passionnée par l'informatique et la science des données, je travaille actuellement sur la création d'un **nouvel entrepôt de données** avec **Talend**. Mon parcours m'a permis d'explorer différents domaines, du développement web à l'intelligence artificielle en passant par la modélisation statistique.
 
 ## 🛠️ Compétences  
-- **Langages** : Python, VBA, JavaScript (Express, React), HTML, CSS, PHP, Scala  
-- **Outils & Frameworks** : Spark-ML, Talend, D3.js, BeautifulSoup, Hugging Face, ChromaDB, Streamlit, Node.js, Express.js  
+- **Langages** : Python, VBA, JavaScript (Express, React), HTML, CSS, PHP, Scala, SAS, R  
+- **Outils & Frameworks** : Spark-ML, Talend, D3.js, BeautifulSoup, Hugging Face, ChromaDB, Streamlit, Node.js, Express.js, Tableau, Business Object  
 - **Bases de données** : MariaDB, ChromaDB, Oracle, SQLDeveloper 
 - **DevOps & Conteneurisation** : Docker, Docker Compose  
 - **Data Science & IA** : Réseaux de neurones (Python), Modélisation prédictive (Spark-ML, Python), NLP & Embeddings  
