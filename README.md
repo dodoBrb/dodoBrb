@@ -10,7 +10,7 @@ Passionnée par l'informatique et la science des données, je travaille actuelle
 ## 🛠️ Compétences  
 - **Langages** : Python, VBA, JavaScript (Express, React), HTML, CSS, PHP, Scala  
 - **Outils & Frameworks** : Spark-ML, Talend, D3.js, BeautifulSoup, Hugging Face, ChromaDB, Streamlit, Node.js, Express.js  
-- **Bases de données** : MariaDB, ChromaDB  
+- **Bases de données** : MariaDB, ChromaDB, Oracle, SQLDeveloper 
 - **DevOps & Conteneurisation** : Docker, Docker Compose  
 - **Data Science & IA** : Réseaux de neurones (Python), Modélisation prédictive (Spark-ML, Python), NLP & Embeddings  
 
