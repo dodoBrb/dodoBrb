@@ -1,45 +1,70 @@
 # 👋 Salut, je suis Dorine Barbey !  
 
-🎓 Étudiante en **3ème année de BUT Science des Données** à Niort  
+🎓 Étudiante en **3ème année de BUT Science des Données** à l’**IUT de Niort**  
 💼 Alternante en **développement décisionnel** au **Conseil Départemental des Deux-Sèvres**  
-🎯 Objectif : **Master dans le domaine informatique ou statistique**  
+🎯 Objectif : intégrer un **Master en informatique, data science ou statistique appliquée**
+
+---
 
 ## 🚀 À propos de moi  
-Passionnée par l'informatique et la science des données, je travaille actuellement sur la création d'un **nouvel entrepôt de données** avec **Talend**. Mon parcours m'a permis d'explorer différents domaines, du développement web à l'intelligence artificielle en passant par la modélisation statistique.
+Passionnée par la **science des données**, je mets en œuvre mes compétences en **gestion de projet, développement, analyse statistique** et **visualisation de données**. En alternance, je participe à la **création d’un entrepôt de données** avec **Talend Open Studio** pour améliorer la prise de décision à l’échelle territoriale.
+
+Je m’intéresse autant à la **technique** (SQL, Python, IA, Spark...) qu’à la **gestion**, la **communication professionnelle**, et la **valorisation des données** via des dashboards ou outils de reporting.
+
+---
 
 ## 🛠️ Compétences  
-- **Langages** : Python, VBA, JavaScript (Express, React), HTML, CSS, PHP, Scala, SAS, R  
-- **Outils & Frameworks** : Spark-ML, Talend, D3.js, BeautifulSoup, Hugging Face, ChromaDB, Streamlit, Node.js, Express.js, Tableau, Business Object  
-- **Bases de données** : MariaDB, ChromaDB, Oracle, SQLDeveloper 
-- **DevOps & Conteneurisation** : Docker, Docker Compose  
-- **Data Science & IA** : Réseaux de neurones (Python), Modélisation prédictive (Spark-ML, Python), NLP & Embeddings  
 
+### 💡 Gestion & Communication  
+- **Gestion de projet** : planification, suivi, méthodes agiles (kanban, Trello)  
+- **Communication d’entreprise** : rédaction professionnelle, restitution orale, reporting  
+- **Outils collaboratifs** : Git, GitHub, Notion, Teams  
+
+### 🧠 Data Science & Statistiques  
+- **Statistique descriptive & inférentielle**, **probabilités**, **modélisation prédictive**, **réseaux de neurones**  
+- **Traitement & analyse de données** : Python, R, SAS, Excel, Spark-ML  
+- **Visualisation** : Tableau, Qlik Sense, R Shiny, D3.js, SAP BusinessObjects  
+
+### 🗃️ Bases de données & ETL  
+- **SGBD** : SQL, NoSQL, Oracle, MariaDB, MongoDB  
+- **Développement & automatisation** : Talend, VBA, Excel, SQLDeveloper  
+- **Modélisation** : conception de schémas relationnels, entrepôts de données  
+
+### 🖥️ Développement  
+- **Langages** : Python, R, SAS, Scala, JavaScript, HTML, CSS, PHP  
+- **Frameworks** : Express.js, React, Streamlit, Node.js  
+- **Outils IA** : Hugging Face, ChromaDB, Google AI Studio  
+- **Conteneurisation** : Docker, Docker Compose  
+
+---
 
 ## 🌟 Projets phares  
+
 ### 🔹 [Marvel-App](https://github.com/dodoBrb/marvel-app)  
-Application web interactive sur les personnages Marvel développée en **React** avec :  
-✅ Liste des personnages avec détails (nom, photo, description)  
-✅ Visualisation des capacités avec **D3.js** (graphique radar et circulaire)  
-✅ Tests unitaires et end-to-end  
-✅ Données récupérées via une API  
+Application web interactive sur les personnages Marvel :  
+✅ Interface en **React** avec **D3.js**  
+✅ API externe, tests E2E, radar des capacités  
+✅ Déploiement containerisé  
 
-### 🔹 [Chatbot Assurance](https://github.com/julietterssgnl/RAG-IUT)  
-Création d'un **chatbot IA** appliqué aux assurances en exploitant des contrats au format **HTML** :  
-✅ Extraction et découpage des documents avec **BeautifulSoup**  
-✅ Embedding des données avec **Hugging Face**  
-✅ Stockage des embeddings dans **ChromaDB**  
-✅ Génération de réponses avec **Streamlit & Google AI Studio**  
+### 🔹 [Chatbot Assurance - IA & NLP](https://github.com/julietterssgnl/RAG-IUT)  
+Chatbot pour contrats d’assurance en HTML avec **RAG** :  
+✅ Extraction via **BeautifulSoup**  
+✅ Embedding avec **Hugging Face**  
+✅ Frontend avec **Streamlit**, backend **ChromaDB**  
 
-### 🔹 [MYDental - BI & Data Visualization](https://github.com/julietterssgnl/mydental-bi)  
-Analyse et amélioration de l'application **BI "MYDental"** permettant de suivre les performances des médecins et les visites des patients grâce à des **tableaux de bord interactifs** :  
-✅ Développement backend avec **Node.js** et **Express.js**  
-✅ Gestion des données avec **MariaDB**  
-✅ Interface utilisateur en **HTML, CSS, JavaScript** avec des visualisations via **D3.js**  
-✅ Conteneurisation et orchestration avec **Docker & Docker Compose** 
+### 🔹 [MYDental - BI & Suivi des performances](https://github.com/julietterssgnl/mydental-bi)  
+App de Business Intelligence médicale :  
+✅ Backend **Node.js**, base **MariaDB**  
+✅ Dashboards dynamiques via **D3.js**  
+✅ Conteneurisation complète avec **Docker**  
 
-## 📊 Statistiques GitHub  
-![Statistiques de mon Github](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)  
+---
 
-## 📫 Où me trouver ?  
+## 📈 En chiffres  
+![Statistiques de mon Github](https://github-readme-stats.vercel.app/api?username=dodoBrb&show_icons=true&theme=radical)
+
+---
+
+## 📫 Me contacter  
 🔗 [LinkedIn](https://fr.linkedin.com/in/dorine-barbey-7a080b2a0)  
-📧 dorine.barbey@etu.univ-poitiers.fr 
+📧 dorine.barbey@etu.univ-poitiers.fr  
