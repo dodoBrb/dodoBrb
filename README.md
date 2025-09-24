@@ -67,4 +67,4 @@ App de Business Intelligence médicale :
 
 ## 📫 Me contacter  
 🔗 [LinkedIn](https://fr.linkedin.com/in/dorine-barbey-7a080b2a0)  
-📧 dorine.barbey.auditeur.lecnam.net 
+📧 dorine.barbey.auditeur@lecnam.net 
